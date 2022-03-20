@@ -1,1 +1,3 @@
 This is a sample file
+This is a line two of the sample.
+This is a line 3.
